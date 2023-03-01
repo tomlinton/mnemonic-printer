@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mnemonic-printer/static/css/main.936956d0.css",
+    "main.js": "/mnemonic-printer/static/js/main.3c1f66dc.js",
+    "static/js/787.a8da3390.chunk.js": "/mnemonic-printer/static/js/787.a8da3390.chunk.js",
+    "index.html": "/mnemonic-printer/index.html",
+    "main.936956d0.css.map": "/mnemonic-printer/static/css/main.936956d0.css.map",
+    "main.3c1f66dc.js.map": "/mnemonic-printer/static/js/main.3c1f66dc.js.map",
+    "787.a8da3390.chunk.js.map": "/mnemonic-printer/static/js/787.a8da3390.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.936956d0.css",
+    "static/js/main.3c1f66dc.js"
+  ]
+}
